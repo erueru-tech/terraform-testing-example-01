@@ -1,6 +1,6 @@
 # 以下のテストをterraform testコマンドで実行する際、TF_VAR_xxxで正しいservice、env、subnet_ipの値を渡す必要がある
 # 例: erueru-techの個人環境でテストを実行する場合(subnet_ipの値を実行環境に合わせたCIDRにする)
-# $ cd /path/to/modules/network
+# $ cd /path/to/terraform-testing-example-01/terraform/modules/network
 # $ terraform init
 # $ TF_VAR_service=infra-testing-google-sample \
 #   TF_VAR_env=sbx-e \

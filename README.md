@@ -1,3 +1,5 @@
-`実用的なTerraformのテストコードのサンプルを実装(ValidationとかTestとかMockの話)`のサンプルコードになります。
+`実用的なTerraformのテストコードのサンプルを実装(ValidationとかTestとかMockの話)`のサンプルコード。
 
-https://zenn.dev/erueru_tech/articles/f6e3985e0c7c45
+- [前編](https://zenn.dev/erueru_tech/articles/f6e3985e0c7c45)
+- [中編](https://zenn.dev/erueru_tech/articles/577b0bbd4f65b0)
+- 後編
